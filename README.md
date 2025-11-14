@@ -1,86 +1,97 @@
-🚀 Subha Shree A
-🛡 Cybersecurity Enthusiast | 🤖 AI & Threat Detection | 💻 Full-Stack Developer
-👋 Hey there! Welcome to my GitHub Profile
+st copy–paste into your README.md.
 
-I’m Subha Shree A, a Cybersecurity Engineering student (BE CSE - Cybersecurity) passionate about:
+# Subha Shree A
 
-Defensive Security & Threat Detection
+**Cybersecurity Enthusiast | AI & Threat Detection | Full-Stack Developer**
 
-AI-Driven Log Analysis
+---
 
-Full-Stack Development (MERN / Spring Boot)
+## 📌 About Me
+I am a pre-final year Cybersecurity Engineering student interested in defensive security, incident response, secure development, and AI-driven threat detection.
 
-DNS, Networks, and Intrusion Detection
+-  CGPA: 9.33  
+-  Focus areas: Network Defense, SOC Tools, Log Analysis, DNS Behaviors  
+-  Skilled in MERN stack and Spring Boot  
+-  Exploring malware behavior, DNS tunneling, anomaly detection  
+-  Active on TryHackMe, picoCTF, and PortSwigger  
+-  Strong believer in hands-on learning and practical cybersecurity projects
 
-Ethical Hacking, CTFs & Red/Blue Team Learning
+---
 
-I love blending cybersecurity + AI + development to build real-world impactful tools.
+## What I'm Currently Learning
+- Web exploitation & bug bounty   
+- Cloud integrations for security tools  
+- Secure web app development (MERN + Spring Boot)
 
-🧠 About Me
+---
 
-🎓 Pre-final year Cybersecurity student (CGPA: 9.33)
+##  Tech Stack
 
-🔐 Interested in Incident Response, Network Defense, AI SOC Tools
+###  Cybersecurity & Networking
+- Kali Linux  
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- PortSwigger  
+- DNS monitoring tools  
 
-💻 Building applications in Node.js, React, Spring Boot, MongoDB & MySQL
+### 💻 Programming
+- Java  
+- Python  
+- C++  
+- JavaScript  
 
-🧪 Exploring malware analysis, DNS tunneling, AI-based anomaly detection
+### ⚙️ Frameworks
+- Node.js  
+- Express.js  
+- React.js  
+- Spring Boot  
 
-💡 Learning from TryHackMe, picoCTF & PortSwigger
+### 🗄 Databases
+- MongoDB  
+- MySQL  
 
-🔍 Believe in practical, hands-on learning and building tools for real problems
+### 🛠 Tools
+- Git & GitHub  
+- Postman  
+- JWT  
+- Figma  
 
-⚡ What I'm Currently Learning
+---
 
-🕷 Web Exploitation & Bug Bounty
+## 🚀 Projects
 
-🤖 AI-based Threat Detection Models
+### 🔎 AI SOC Analyst Tool
+AI-powered log analyzer with real-time anomaly detection  
+Repo: https://github.com/subhashree-18/SOC_Analyst
 
-☁️ Cloud Integrations for Security Tools
+### 🌐 DNS Tunnel Detector
+Detects suspicious DNS tunneling and abnormal DNS query patterns  
+Repo: https://github.com/subhashree-18/CyberSecurity-Projects
 
-🛡 Secure Web App Development (MERN & Spring Boot)
+### 📄 Online Certificate Verification System (MERN)
+Secure certificate validation system with encrypted DB + PDF generation  
+Repo: https://github.com/subhashree-18/Online-Caste-Verification-System
 
-🛠 Tech Stack
-Cybersecurity & Networking
+---
 
-Kali Linux • Nmap • Wireshark • Burp Suite • PortSwigger • DNS Monitoring
+## 🔗 Profiles
+- TryHackMe  
+- LeetCode  
+- CodeChef  
+- picoCTF  
+- PortSwigger  
 
-Programming & Development
+---
 
-Java • Python • C++ • JavaScript
+## 📬 Contact
+- Email: **subhashreea.cs2023@citchennai.net**  
+- LinkedIn: **https://www.linkedin.com/in/subha-shree-a-29427b290/**  
 
-Frameworks
+---
 
-Node.js • Express.js • React.js • Spring Boot
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=subhashree-18&show_icons=true&theme=default)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=subhashree-18&theme=default)
 
-Databases
-
-MongoDB • MySQL
-
-Tools
-
-Git • GitHub • JWT • Postman • Figma
-
-🚀 Projects
-🔐 AI SOC Analyst Tool
-
-AI-powered log analyzer with real-time anomaly detection
-🔗 https://github.com/subhashree-18/SOC_Analyst
-
-🛡 DNS Tunnel Detector
-
-Detects suspicious DNS tunneling & abnormal queries
-🔗 https://github.com/subhashree-18/CyberSecurity-Projects
-
-📄 Online Certificate Verification System (MERN)
-
-Secure portal with PDF generation & validation
-🔗 https://github.com/subhashree-18/Online-Caste-Verification-System
-
-🧠 Platforms I'm Active On
-<p align="left"> <a href="https://tryhackme.com/" target="_blank"> <img height="30" src="https://img.shields.io/badge/TryHackMe-E34F26?style=for-the-badge&logo=tryhackme&logoColor=white"/> </a> <a href="https://leetcode.com/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://codechef.com/" target="_blank"> <img height="30" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> </p>
-🌐 Let's Connect
-<p align="left"> <a href="mailto:subhashreea.cs2023@citchennai.net"> <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/subha-shree-a-29427b290/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-📊 GitHub Stats
-
-
+---
