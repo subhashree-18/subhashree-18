@@ -84,15 +84,12 @@ I am a pre-final year Cybersecurity Engineering student interested in defensive 
 
 ### 🔎 AI SOC Analyst Tool  
 AI-powered log analyzer with real-time anomaly detection  
-**Repo:** https://github.com/subhashree-18/SOC_Analyst
 
 ### 🌐 DNS Tunnel Detector  
 Detects suspicious DNS tunneling and abnormal DNS query patterns  
-**Repo:** https://github.com/subhashree-18/CyberSecurity-Projects
 
 ### 📄 Online Certificate Verification System (MERN)  
 Secure certificate validation system with encrypted DB + PDF generation  
-**Repo:** https://github.com/subhashree-18/Online-Caste-Verification-System
 
 ---
 
